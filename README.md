@@ -47,4 +47,4 @@ npm run test
 [Demo.webm](https://github.com/Mirza-Hassan/Home_rents_Frontend/assets/17096257/f1fa04f7-adcf-4de1-aace-d78c141f55bd)
 
 ### Live URL 
-https://home-rents-form.netlify.app/
+https://home-rent-form.netlify.app/
