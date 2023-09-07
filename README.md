@@ -34,7 +34,7 @@ npm start
 4. Run your tests using the command:
 
 ```
-npm run test:unit
+npm run test
 ```
 
 # Screenshot
